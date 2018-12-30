@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tour guide</string>
+    <string name="egypt">Tour guide at Egypt</string>
+    <string name="germany">Tour guide at Germany</string>
+    <string name="france">Tour guide at France</string>
+    <string name="lebnan">Tour guide at Lebanon</string>
+
+    <string name="cairotower">Cairo Tower</string>
+    <string name="alexlibrary">Alex Library</string>
+    <string name="musem">Egyption Museum</string>
+    <string name="mesque">Mesque of Elhussen</string>
+    <string name="cairoloc">Cairo</string>
+    <string name="alexlibraryloc">Alex</string>
+
+
+    <string name="lovmusem">The Louvre Museum</string>
+    <string name="efftower">The Eiffel Tower</string>
+    <string name="alstreest">Champs de alysee streest</string>
+    <string name="place">Place of the Concorde</string>
+    <string name="franceloc">Paris</string>
+
+
+    <string name="leb1">Jeita Grotto</string>
+    <string name="leb2">Palace of Beit Din</string>
+    <string name="leb3">Al Hamra Street</string>
+    <string name="leb4">Beirut National Museum</string>
+    <string name="leb1loc">River Valley Dog</string>
+    <string name="leb2loc">Chouf</string>
+    <string name="leb3loc">Downtown Beirut</string>
+    <string name="leb4loc">Beirut</string>
+
+    <string name="ger1">The Louvre Museum</string>
+    <string name="ger2">The Eiffel Tower</string>
+    <string name="ger3">Champs de alysee streest</string>
+    <string name="ger4">Place of the Concorde</string>
+    <string name="gerloc">Paris</string>
+
+
+</resources>
